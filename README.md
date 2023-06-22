@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/efe celal ogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efe celal ogul" height="30" width="40" /></a>
 <a href="https://instagram.com/lyloooxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lyloooxd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCql4mc5mrQbmdiAm60lJA4w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="synox0092" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Synox0092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="synox0092" height="30" width="40" /></a>
 <a href="https://discord.gg/synox.rb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="synox.rb" height="30" width="40" /></a>
 </p>
 
