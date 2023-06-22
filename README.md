@@ -1,4 +1,4 @@
-[![MasterHead]https://i.pinimg.com/736x/d7/a6/79/d7a6791b5c27ffb4bcb6697f32ed75ad.jpg
+[![MasterHead](https://i.pinimg.com/736x/d7/a6/79/d7a6791b5c27ffb4bcb6697f32ed75ad.jpg)
 <h1 align="center">Hi 👋, I'm Efe Celal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
